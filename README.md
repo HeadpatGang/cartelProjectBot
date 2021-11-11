@@ -8,8 +8,6 @@
 <p align="center">
   <h3 align="center">Custom Discord bot</h3>
   This bot is an Open Source Discord Bot created using [Discord.JS](https://discord.js.org) with [API](https://github.com/HeadpatGang/cartelProject) integration, it is currently being Self-Hosted & being used inside The Cartel's Discord Server
-  <p align="center">
-  </p>
 </p>
 
 <!-- Features of the Project -->
