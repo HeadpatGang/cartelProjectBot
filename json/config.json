@@ -1,0 +1,19 @@
+{ 
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "usbw",
+        "port": 3306,
+        "database": "cartel_crafters"
+    },
+    "client": {
+        "prefix": "!",
+        "clientID": "896522399267291196",
+        "guildID": "867457117924491314"
+    },
+    "amazon": {
+        "awsAccessKeyID": "",
+        "awsSecretAccessKey": "",
+        "awsRegion": ""
+    }
+}
