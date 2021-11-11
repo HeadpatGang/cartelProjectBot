@@ -8,7 +8,6 @@
   This bot is an Open Source Discord Bot created using [Discord.JS](https://discord.js.org) with [API](https://github.com/HeadpatGang/cartelProject) integration.
   <br />
   It is currently being Self-Hosted & being used inside The Cartel's Discord Server
-</p>
 
 <!-- Features of the Project -->
 ## Features
