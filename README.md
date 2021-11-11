@@ -4,13 +4,10 @@
 [![Issues][issues-shield]][issues-url]
 
 <!-- Brief Intro -->
-<br />
-<p align="center">
-  <h3 align="center">Custom Discord bot</h3>
+## Custom Discord bot
   This bot is an Open Source Discord Bot created using [Discord.JS](https://discord.js.org) with [API](https://github.com/HeadpatGang/cartelProject) integration.
-  <p align="center">
+  <br />
   It is currently being Self-Hosted & being used inside The Cartel's Discord Server
-  </p>
 </p>
 
 <!-- Features of the Project -->
